@@ -1,3 +1,5 @@
+# Download the Zip File to access the Arduino IDE Code
+
 # Part1: Potentiometer
 Arduino Code to make the LED dim with the potentiometer
 # Part2: Other Variable Resistors
